@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a technically-driven **Data Scientist** specializing in machine learning, deep learning, and natural language processing. With a strong foundation from my B.Tech in Computer Science from **Guru Gobind Singh Indraprastha University** (GPA: **9.37**), I design and deploy end-to-end solutions that integrate advanced algorithms with scalable cloud architectures.
+I am a technically-driven **Data Scientist** specializing in machine learning, deep learning, and natural language processing. With a strong foundation from my B.Tech in Computer Science from **Guru Gobind Singh Indraprastha University**, I design and deploy end-to-end solutions that integrate advanced algorithms with scalable cloud architectures.
 
 My work involves developing sophisticated ML models, creating robust data pipelines, and optimizing feature engineering techniques. I have hands-on experience deploying models on cloud platforms like AWS, Azure, and Google Cloud, and I utilize containerization (Docker, Kubernetes) and CI/CD practices (Jenkins) to streamline production workflows. I am passionate about experimenting with cutting-edge frameworks and tools to solve complex data challenges and drive innovation.
 
